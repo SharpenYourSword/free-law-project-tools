@@ -31,22 +31,21 @@ read_node () {
 
 to_json () {
     if [[ $TAG_NAME = "opinion" ]] ; then
-        #echo $ATTRIBUTES
-        id=$(readkey 'id' $ATTRIBUTES)
-        path=$(readkey 'path' $ATTRIBUTES)
-        sha1=$(readkey 'sha1' $ATTRIBUTES)
-        court=$(readkey 'court' $ATTRIBUTES)
-        time_retrieved=$(readkey 'time_retrieved' $ATTRIBUTES)
-        date_filed=$(readkey 'date_filed' $ATTRIBUTES)
-        precedential_status=$(readkey 'precedential_status' $ATTRIBUTES)
-        federal_cite_one=$(readkey 'federal_cite_one' $ATTRIBUTES)
-        case_name=$(readkey 'case_name' $ATTRIBUTES)
-        judges=$(readkey 'id' $ATTRIBUTES)
-        nature_of_suit=$(readkey 'nature_of_suit' $ATTRIBUTES)
-        source_=$(readkey 'source' $ATTRIBUTES)
-        blocked=$(readkey 'blocked' $ATTRIBUTES)
-        date_blocked=$(readkey 'date_blocked' $ATTRIBUTES)
-        cited_by=$(readkey 'cited_by' $ATTRIBUTES)
+        id=$(readkey 'id')
+        path=$(readkey 'path')
+        sha1=$(readkey 'sha1')
+        court=$(readkey 'court')
+        time_retrieved=$(readkey 'time_retrieved')
+        date_filed=$(readkey 'date_filed')
+        precedential_status=$(readkey 'precedential_status')
+        federal_cite_one=$(readkey 'federal_cite_one')
+        case_name=$(readkey 'case_name')
+        judges=$(readkey 'id')
+        nature_of_suit=$(readkey 'nature_of_suit')
+        source_=$(readkey 'source')
+        blocked=$(readkey 'blocked')
+        date_blocked=$(readkey 'date_blocked')
+        cited_by=$(readkey 'cited_by')
 
         JSON="{"
 
