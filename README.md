@@ -6,8 +6,8 @@ That said, knowing the people that play around with FLP data, there's a great ch
 
 Data Sets
 ---------
-CourtListener: https://www.courtlistener.com/api/
-RECAP: https://archive.org/details/usfederalcourts
+CourtListener: https://www.courtlistener.com/api/  
+RECAP: https://archive.org/details/usfederalcourts  
 
 Contributing
 ------------
