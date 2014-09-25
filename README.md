@@ -1,6 +1,13 @@
-Courtlistener Tools
-===================
-In this repository, you'll find tools that can be used with the CourtListener datasets. This is a community-driven, experimental repository, so there are no promises about the quality of what you'll find here. That said, knowing the people that play around with CourtListener data, there's a great chance that beautiful things will bloom here.
+Free Law Project Tools
+======================
+In this repository, you'll find tools that can be used with the Free Law Project initiatives, including the CourtListener and RECAP datasets. This is a community-driven, experimental repository, so there are no promises about the quality of what you'll find here. 
+
+That said, knowing the people that play around with FLP data, there's a great chance that beautiful things will bloom here.
+
+Data Sets
+---------
+CourtListener: https://www.courtlistener.com/api/
+RECAP: https://archive.org/details/usfederalcourts
 
 Contributing
 ------------
