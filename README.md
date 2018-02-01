@@ -1,5 +1,3 @@
-[![Slack Status](https://join-flp-talk.herokuapp.com/badge.svg)](https://join-flp-talk.herokuapp.com/)
-
 Free Law Project Tools
 ======================
 In this repository, you'll find tools that can be used with the Free Law Project initiatives, including the CourtListener and RECAP datasets. This is a community-driven, experimental repository, so there are no promises about the quality of what you'll find here. 
