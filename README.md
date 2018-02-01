@@ -13,8 +13,6 @@ Contributing
 ------------
 If you have code to contribute, simply send a pull request. Somebody with access will review and merge your code, and you'll be given access to the same in the future.
 
-You can [chat about this stuff in our Slack chat room](https://join-flp-talk.herokuapp.com/).
-
 License
 -------
 All code in this repo is automatically licensed under the BSD license. See `LICENSE.txt` for details of what that means.
